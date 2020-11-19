@@ -36,4 +36,5 @@ export {
   GraphQLResponseResolver,
   GraphQLRequestParsedResult,
 } from './graphql'
+export { debug } from './debug'
 export { matchRequestUrl } from './utils/matching/matchRequestUrl'
